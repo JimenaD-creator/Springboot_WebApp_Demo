@@ -29,3 +29,13 @@ The application is configured to run on port **8082**.
 ```properties
 server.port=8082
 ```
+## How to build and run
+Run the main method in MywebappApplication.java from your IDE (VS Code/IntelliJ).
+
+## Accessing the Application
+Accessing the Application
+Once the application starts, the server will listen on port 8082.
+
+URL: http://localhost:8082/hello
+
+Expected Response: Hello from Spring with IoC!
